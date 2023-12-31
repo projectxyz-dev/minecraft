@@ -4,6 +4,7 @@
 
 ## Installation
 
-* [MultiMC](installation/multimc.md)
+* [Launcher](installation/launcher.md)
 * [Java](installation/java.md)
-* [ModPack](installation/modpack.md)
+* [ModPack](installation/modpack/README.md)
+  * [Legacy](installation/modpack/legacy.md)
